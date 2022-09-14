@@ -15,7 +15,7 @@ Come commit and create pull request with us in any of our projects on GitHub:
 - [Wiki][wiki]
 - [Awesome Alephium][awesome]
 
-## About
+## ❓ About
 
 ### A new paradigm
 
@@ -78,7 +78,6 @@ In addition, half of the transaction fees are burned with each block and Proof o
 - [Website][website]
 - [Whitepapers][whitepaper]
 - [Medium][medium]
-- [GitHub][github]
 
 ---
 
