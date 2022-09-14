@@ -1,4 +1,4 @@
-# Alephium
+![Alephium Logo](https://github.com/alephium/alephium-brand-guide/blob/master/logos/grey/Logo-Horizontal-Grey.png "Alephium Logo")
 
 #### Decentralization, self-sovereignty, and security meet high-performance, accessibility, and energy efficiency in a dev-friendly network optimized for DeFi & smart contract applications.
 
