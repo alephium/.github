@@ -19,7 +19,7 @@ For smart contract and dApp development, Alephium has its own language called [R
 
 **Read the [documentation](https://wiki.alephium.org).  \
 Find the latest[ Node release](https://github.com/alephium/alephium/releases/latest/).  \
-Get the latest [Desktop Wallet.](https://github.com/alephium/desktop-wallet) \
+Get the latest [Desktop Wallet.](https://github.com/alephium/desktop-wallet/releases/latest/) \
 Discover the [Whitepapers](https://github.com/alephium/white-paper). \
 Browse the [FAQ](https://wiki.alephium.org/frequently-asked-questions).**
 
