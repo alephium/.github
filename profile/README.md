@@ -1,4 +1,4 @@
-![Alephium Logo](https://github.com/alephium/alephium-brand-guide/blob/master/logos/grey/Logo-Horizontal-Grey.png "Alephium Logo")
+![Alephium Logo](https://raw.githubusercontent.com/alephium/alephium-brand-guide/master/logos/light/Logo-Horizontal-Light.png#gh-dark-mode-only) ![Alephium Logo](https://raw.githubusercontent.com/alephium/alephium-brand-guide/master/logos/dark/Logo-Horizontal-Dark.png#gh-light-mode-only)
 
 ### A new paradigm
 
