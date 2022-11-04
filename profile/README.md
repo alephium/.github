@@ -2,7 +2,7 @@
 
 Alephium is the first operational sharded L1 blockchain scaling and enhancing PoW & UTXO concepts. Decentralization, self-sovereignty, and security meet high-performance, accessibility, and energy efficiency in a dev-friendly network optimized for DeFi & smart contract applications.
 
-To learn more about Alephium, visit [wiki.alephium.org](https://docs.alephium.org/).
+To learn more about Alephium, visit [docs.alephium.org](https://docs.alephium.org/).
 
 ### Contributing to the ecosystem
 
