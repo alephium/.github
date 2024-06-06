@@ -9,8 +9,8 @@ To learn more about Alephium, visit [docs.alephium.org](https://docs.alephium.or
 Alephium has an early but growing ecosystem that welcomes all kinds of contributions.
 
 - The main repositories are pinned below.
-- If you're building a dApp, start with the [quick guide](https://docs.alephium.org/dapps/Getting-Started).
+- If you're building a dApp, start with the [quick guide](https://docs.alephium.org/dapps/tutorials/quick-start).
 - Add your project to the [Awesome Alephium](https://github.com/alephium/awesome-alephium) repo!
 - Join the [Discord](https://alephium.org/discord) and ask the devs and a thriving community of Alephians for help.
 
-To support the development of and growth of the Alephium Ecosystem, there is a dedicated [grant and reward program](https://github.com/alephium/community/blob/master/Grant%26RewardProgram.md).
+To support the development and growth of the Alephium Ecosystem, there is a dedicated [grant and reward program](https://github.com/alephium/community/blob/master/Grant%26RewardProgram.md).
